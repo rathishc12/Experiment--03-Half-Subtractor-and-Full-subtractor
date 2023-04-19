@@ -59,11 +59,11 @@ endmodule
 ```
 
 ## Output:
+
 ## Truthtable
 
 ### HALF SUBTRACTOR:
 ![exp4 1 tr](https://user-images.githubusercontent.com/120539823/230785711-cb86ef74-6d51-4909-90c6-2442d6a12f30.png)
-
 
 ### FULL SUBTRACTOR:
 ![full tr](https://user-images.githubusercontent.com/120539823/230785715-f2220f69-41a7-4d3d-b272-945a9b004359.png)
